@@ -1,4 +1,4 @@
-# tmpl-mp-taro
+# tmpl-mp-taro2
 
 ## 简介
 > taro小程序项目模版
