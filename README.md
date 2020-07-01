@@ -11,8 +11,6 @@
 ## 技术栈
 > 小程序 => [taro](https://nervjs.github.io/taro/docs/1.3.34/README.html) + [hooks](https://react.docschina.org/docs/hooks-intro.html) + [redux](http://cn.redux.js.org) +  [ts](https://typescript.bootcss.com)
 
-> 商家端 => [egg](https://eggjs.org/zh-cn/intro/index.html) + [vue](https://cn.vuejs.org/) + [vuex](https://vuex.vuejs.org/zh/) + [vue-router](https://router.vuejs.org/zh/) + [ts](https://typescript.bootcss.com) + [antd](https://www.antdv.com/docs/vue/introduce-cn/)
-
 ## 约定
 - `js/ts` 文件以小写字母命名，多个单词以下划线连接，例如 util.js、util_helper.ts
 - `js/ts` 文件以 .js 或者 .ts 作为文件后缀
